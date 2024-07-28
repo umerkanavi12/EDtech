@@ -9,7 +9,7 @@ body{
     .container {
       flex-direction: column;
     }
-    .logo {
+    .logo img{
           width: 50px;
     }
     
@@ -20,7 +20,7 @@ body{
     .container {
       flex-direction: column;
     }
-    .logo {
+    .logo img{
         width: 100px;
   }
     
