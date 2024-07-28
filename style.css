@@ -10,7 +10,7 @@ body{
       flex-direction: column;
     }
     .logo img{
-          width: 50px;
+          width: 100px;
     }
     
   }
@@ -21,7 +21,7 @@ body{
       flex-direction: column;
     }
     .logo img{
-        width: 100px;
+        width: 150px;
   }
     
   }
